@@ -1,4 +1,4 @@
- SOBRE MIM
+ Sobre mim:
 ---
 
 - :v: Olá, Eu sou @Poltket
