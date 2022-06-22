@@ -1,7 +1,7 @@
  SOBRE MIM
 ---
 
-- 👋 Olá, Eu sou @Poltket
+- :v: Olá, Eu sou @Poltket
 - 👀 Estou interessada em jogos e programação.
 - 🌱 Estou aprendendo programar em java script.
 - 💞️ Gosto de jogar.
