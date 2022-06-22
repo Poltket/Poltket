@@ -2,9 +2,9 @@
 ---
 
 - :v: Olá, Eu sou @Poltket
-- 👀 Estou interessada em jogos e programação.
-- 🌱 Estou aprendendo programar em java script.
-- 💞️ Gosto de jogar.
+- :books: Estou interessada em jogos e programação.
+- :pushpin: Estou aprendendo programar em java script.
+- 	:abacus: Gosto de jogar.
 - 📫 Meu E-mail é ketlyn.poltronhere@escola.pr.gov.br
 
 <!---
