@@ -3,7 +3,7 @@
 
 - :v: Olá, Eu sou @Poltket
 - :books: Estou interessada em jogos e programação.
-- :pushpin: Estou aprendendo programar em java script.
+- :pushpin: Estou aprendendo a programar em java script.
 - 	:abacus: Gosto de jogar.
 - 📫 Meu E-mail é ketlyn.poltronhere@escola.pr.gov.br
 
