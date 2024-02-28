@@ -1,11 +1,11 @@
  Sobre mim:
 ---
 
-- :v: Olá, Eu sou @Poltket
+- :v: Oioii, Eu sou @Poltket
 - :books: Estou interessada em jogos e programação.
-- :pushpin: Estou aprendendo a programar em java script.
-- 	:abacus: Gosto de montar cubo mágico.
-- 📫 Meu E-mail é ketlyn.poltronhere@escola.pr.gov.br
+- :pushpin: Programando em Java Script, HTML e CSS.
+- 	:abacus: Monto cubo mágico e toco gaita.
+- 📫 Meu E-mail é ketlyn.poltronhere@escola.pr.gov.br/Ig @kepolte
 
 <!---
 Poltket/Poltket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
