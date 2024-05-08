@@ -4,7 +4,7 @@
 - :v: Oiê, sou @Poltket
 - :books: Estou interessada em jogos e programação.
 - :pushpin: Programando em Java Script, HTML e CSS.
-- 	:abacus: Monto cubo mágico e toco gaita 🪗.
+- 🪗 Monto cubo mágico e toco gaita.
 - 📫 Meu E-mail é ketlyn.poltronhere@escola.pr.gov.br
 
 <!---
